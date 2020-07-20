@@ -1,0 +1,3 @@
+[submodule "cotabox-fullstack-challenge-api"]
+	path = cotabox-fullstack-challenge-api
+	url = https://github.com/noriskii/cotabox-fullstack-challenge-api

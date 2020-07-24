@@ -1,6 +1,6 @@
 # COTABOX FULLSTACK CHALLENGE
 
-- [COTABOX FULLSTACK CHALLENGE FRONTEND](#cotabox-fullstack-challenge-frontend)
+- [COTABOX FULLSTACK CHALLENGE](#cotabox-fullstack-challenge)
   - [What is the Challenge?](#what-is-the-challenge)
   - [Demo](#demo)
   - [Next Steps](#next-steps)

@@ -1,7 +1,5 @@
 # COTABOX FULLSTACK CHALLENGE
 
-	AGRADECIMENTOS
-
 - [COTABOX FULLSTACK CHALLENGE FRONTEND](#cotabox-fullstack-challenge-frontend)
   - [What is the Challenge?](#what-is-the-challenge)
   - [Demo](#demo)
